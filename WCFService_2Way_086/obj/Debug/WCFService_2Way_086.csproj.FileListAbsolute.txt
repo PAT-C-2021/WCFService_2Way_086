@@ -1,0 +1,7 @@
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\WCFService_2Way_086\WCFService_2Way_086\bin\Debug\WCFService_2Way_086.dll.config
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\WCFService_2Way_086\WCFService_2Way_086\bin\Debug\WCFService_2Way_086.dll
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\WCFService_2Way_086\WCFService_2Way_086\bin\Debug\WCFService_2Way_086.pdb
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\WCFService_2Way_086\WCFService_2Way_086\obj\Debug\WCFService_2Way_086.csprojAssemblyReference.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\WCFService_2Way_086\WCFService_2Way_086\obj\Debug\WCFService_2Way_086.csproj.CoreCompileInputs.cache
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\WCFService_2Way_086\WCFService_2Way_086\obj\Debug\WCFService_2Way_086.dll
+I:\Kuliah\Semester 5\Pengembangan Aplikasi Terdistribusi\13\WCFService_2Way_086\WCFService_2Way_086\obj\Debug\WCFService_2Way_086.pdb
